@@ -1,2 +1,2 @@
 # Object-Oriented-Progamming
-OOP Lab Tasks
+This repository contains OOP Lab Tasks
